@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: flask-web
-          image: geekedoutsolutions/flask-starter
+          image: realbtotharye/flask-starter
           ports:
             - containerPort: 8000
