@@ -1,2 +1,2 @@
 # flask-starter
-A basic flask starter setup 
+Starter project for flask and docker
